@@ -11,12 +11,7 @@
 
 
 
-
-- 🔭 I’m currently working on **IBTECH A.Ş.**
-- 🌱 I’m currently learning **c#** and **java**...
-
-
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/74072821/123179401-00488b00-d492-11eb-9c20-bf7b83bdb458.png" alt="C#" height="60" style="vertical-align:top; margin:4px">
