@@ -11,10 +11,11 @@
 
 
 
-## Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 
   <img src="https://user-images.githubusercontent.com/74072821/123179401-00488b00-d492-11eb-9c20-bf7b83bdb458.png" alt="C#" height="60" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/74072821/123178134-405a3e80-d48f-11eb-89e2-9ade3c678443.png" alt="Java" height="80" style="vertical-align:top; margin:3px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/74072821/123177015-27508e00-d48d-11eb-9925-4b45e4b03df8.png" alt="Flutter" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle Sql" height="60" style="vertical-align:top; margin:4px">
 
