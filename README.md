@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/lP8xu5t2DLGG045H8F" width="100"/>
   <a>
   </a>
 </div>
@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 <!--
 **cemccccc/cemccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
